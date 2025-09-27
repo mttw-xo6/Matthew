@@ -1,0 +1,5 @@
+{
+  "name": "KeepOn",
+  "description": "An AI-powered coach for a habit tracking app that provides short, positive, and actionable feedback based on user check-ins, focusing on consistency and avoiding guilt.",
+  "requestFramePermissions": []
+}
